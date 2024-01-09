@@ -1,0 +1,484 @@
+.banner {
+    background-image: url('../images/Banner\ Image.png');
+   filter: brightness(100%);
+    background-repeat: no-repeat;
+    width:1400px ; 
+    height: 700px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    border-radius: 16px; 
+    margin-top:0px;
+    margin-bottom: 300px;
+    margin-left: 200px;
+    margin-right: 500px;
+
+
+}
+.centered-theme {
+    max-width: 500px;
+  }
+.banner-title{
+    color:#FFF; 
+    font-size: 24px;
+    width: 300px; 
+    text-align: center;
+    font-weight:500px;
+    margin-left:50px;
+    margin-bottom: 0%;
+
+  }
+.banner-description {
+    color: #FFF ; 
+    font-size:70px;
+    width: 800px;
+    height: 300px;
+    font-weight: 500px;
+    margin-top: 6%;
+   
+}
+/*offer holiday styles*/
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.offer-holiday{
+    width: 600px;
+    height: 400px;
+    margin-top: -300px;
+    margin-bottom: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
+} 
+.holiday{
+    text-align: center;
+}
+.offer{
+    color:#F00;
+    font-size: 70px;
+    margin-bottom:-10px;
+}
+.heading{
+    color:#F00;
+    font-size: 15px;
+}
+/* party section styles*/
+
+.Party{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    border-radius:20px;
+    margin: -150px 20px 750px -100px;
+    width: -600px;
+    height: 700px;   
+}
+.centered-theme2{
+    max-width: 500px;
+}
+.wlc-title{
+    color: #FFF;
+    font-size:40px;
+    font-weight: 500;
+    letter-spacing: 4.04px;
+    line-height:50px ;
+    padding: 200px 50px 0px 150px;
+}
+.party-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 12px;
+    width: 350px;
+    padding: 0 60px 0px 160px;
+}
+.p-button {
+    color: #b7acac;
+    font-size: 30px;
+    background: rgb(102, 83, 52);
+    border:none;
+    font-size: 14px;
+    margin: 80px 20px 80px 180px;
+    border-radius: 0 20px;
+    position: absolute;
+  
+}
+.year2024{
+    width:300px;
+    height:400px;
+    margin-top:200px;
+    margin-left:460px;
+}
+
+
+
+/*section address styles*/
+.address{
+    background: linear-gradient(rgb(244, 203, 210) ,white);
+    border-radius: 10px;
+    margin: -750px 20px 900px -100px;   ;
+    padding: 180px;
+
+}
+.info-title{
+    color:  #070211;
+    font-weight: 900;
+    font-size: larger;
+}
+.address-info-cont{
+    text-align: center;
+    justify-content: space-around;
+}
+.text-primary{
+    color: #F00;
+
+}
+.button2{
+   background:#F00;
+   color: #FFF;
+   font-size: 10px;
+   border: 0;
+   border-radius: 5px;
+   text-transform: uppercase;
+   display: inline-flex;
+   padding: 10px 20px;
+   justify-content: center;
+   align-items: center;
+    gap: 10px;
+}
+/*best offer styles*/
+
+.best-offer {
+    background:#FFF;
+    height: 6vh;
+    margin: -800px 20px 900px -100px;   ;
+    padding: 180px;
+}
+
+.best-offer-title{
+    color: #F00;
+    font-size: 15px;
+    width: 500px;
+    margin: -100px;
+    margin-bottom: 0px;
+    margin-left: -100px;
+    margin-right: 60px;
+
+}
+.best-offer-cmig{
+    color: #070211;
+    font-size: 30px;
+    font-weight: 800;
+    width: 200px;
+    margin-top: 15px;
+    margin-bottom: 60px;
+    margin-left: -100px;
+    margin-right: 0;
+    padding: 0px 80px 0px 0px;
+}
+.best-offer-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    width: 250px;
+    margin: -100px; 
+    padding: 60px 0px 0px 1px;
+}
+.year{
+    height: 3vh;
+    margin-top:-1800px;
+    margin-bottom:0px;
+    margin-left: 700px;
+    margin-right:-100px; 
+    padding: 180px;
+}
+.new-year{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 380px;
+}
+.year-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-top: -10px;
+}
+.ellipse-img{
+    margin-top:85px;
+    margin-left: 290px;
+    border-radius: 70%;
+    padding: 20px;
+    border: 10px solid red; 
+}
+/*functional section styles*/
+
+.sale-offer, #FUNCTIONAL{
+    background: #FFF;
+    width:1190px;
+    height:800px;
+    margin-top: 99px;
+    margin-bottom:100px;
+    margin-left: -60px;
+    margin-right:0px;
+}
+.sale-title{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom:20px ;
+
+}
+.sale-ps{
+    color: rgb(228, 24, 24);
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: -5px; 
+    margin-bottom:10px; 
+}
+.different-color{
+    color: #070211;  
+    font-size: 72px;
+    font-weight: 900;
+    font-family: 'Merriweather';
+
+}
+.sale-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    text-align: center;
+    width: 720px;
+    margin-top:20px;
+    margin-left:200px;
+}
+
+.sale-type{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+.sale-type{
+    min-width:200px;    
+}
+.img-girl{
+    width: 390px;
+    margin-left:859px;
+    margin-bottom:-30px;    
+}
+.circle{
+   height: 200px;
+   width: 200px;
+   position: relative;
+   top: -55%;
+   left: 55%;
+   border-radius: 100%;
+
+}
+
+.img-box{
+    width:650px;
+    height:500px;
+    margin-top:-800px;
+    margin-bottom:50px;
+    margin-left:100px;
+}
+.img-red{
+ width:1250px;
+ height:220px;
+ margin-left:1px;
+ margin-top:-250px;    
+}
+
+/*best gift styles*/
+
+
+.best-gift,#best-gift-product{
+    background: #FFF;
+    width:1200px;
+    height:600px;
+    margin-top: 99px;
+    margin-bottom: 0;
+    margin-left: -55px;
+    margin-right:0px;
+   
+
+}
+.best-gift-title{
+    font-size:15px;
+    color: #F00;
+
+}
+.best-gift-portfolio{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 38px;
+    font-weight: 900;
+    margin-top: -10px;
+}
+.best-gift-description{
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: -10px;
+  width: 500px;
+}
+.product-type{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    gap: 5px;
+}
+.product-type div{
+    min-width:300px;
+}
+.product-type img{
+    width: 390px;
+}
+.best-img:hover{
+    transition: 1s;
+    border-radius: 3px;
+    background-color: #5f177d;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+/*subscribe styles*/
+
+.subscribe{
+    background: rgba(248, 209, 209, 0.312);
+    width: 90%;
+    height: 300px;
+    border-radius: 16px;
+    margin-top: 500px;
+    margin-bottom:400px;
+    margin-left:-100px;
+    margin-right:200px;
+    padding: 180px 70px 180px;
+
+}
+.sub-icon{
+    width: 150px;
+    height: 150px;
+    border-radius: 26px;
+    margin-top:-100px;
+    margin-bottom: 20px;
+    margin-left: 400px;
+    margin-right:0;
+    
+}
+.sub-title{
+    font-size:50px;
+    margin-top:10px;
+    margin-bottom:30px;
+    margin-left:250px;
+    
+}
+.sub-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    width:750px;
+    margin-left:200px;
+}
+
+label{ 
+    position: relative;
+}
+
+input[type="text"]{
+    border: none;
+    width: 300px;
+    height: 50px;
+    padding: 0 16px;
+    margin-left:250px;
+    margin-top: 30px;
+    border-radius: 50px 0px 0px 50px;
+
+}
+button{
+    position: absolute;
+    background-color: #f10e0e;
+    margin-top: 30px;
+    padding: 16px 16px 16px 35px;
+    letter-spacing: 2px; 
+    font-size: 14px;
+    border: none;
+    border-radius: 0px 50px 50px 0px;
+
+}
+
+/*footer styles*/
+
+footer {
+    background: #000000;
+    width: 2000px;
+    height:990px;
+    margin-top: -300px; 
+    margin-bottom:600px;
+    margin-left:-400px ;
+    margin: right 900px;
+}
+.footer-desc{
+    color: #FFF;
+    font-size: 40px;
+    padding: 200px;
+    width: 650px;
+
+}
+.fd{
+    color: #FFF;
+    font-size: 24px;
+    margin-left:-60px;
+    padding: 160px 300px 0px;
+}
+.social-links{
+    margin-right: 25px;
+    margin-top:0px;
+    margin-bottom:0;
+    margin-left:900px;
+    gap:50px;
+
+}
+.contact{
+    color: #FFF;
+    font-size: 24px;
+    width:500px;
+    font-weight: 500;
+    margin-top:-700px;
+    margin-bottom:-25px;
+    margin-left:1455px;
+
+}
+.web{
+   color: #ffffff;
+   font-size:24px;
+   width:500px ;
+   font-weight: 500;
+   margin-top:-480px ;
+   margin-bottom:-30px ;
+   margin-left:1450px;
+}
+.contact-i{
+   width: 24px;
+   margin-top:0px ;
+   margin-bottom:500px ;
+   margin-left:1400px;
+ 
+}
+.web-i{
+    font-size: 24px;
+    margin-top:0px ;
+    margin-left:1400px;
+    margin-bottom:600px ;
+
+}
+.Unsubscribe{
+    color: #FFF;
+    font-size:24px;
+    font-weight: 500;
+    margin-top:-50px;
+    margin-left:1700px;
+    margin: right 800px;
+  
+    
+}
